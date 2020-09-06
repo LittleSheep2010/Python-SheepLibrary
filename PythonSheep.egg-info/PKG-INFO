@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: PythonSheep
+Version: 0.0.2
+Summary: Python Framework.
+Home-page: https://github.com/LittleSheep2010/PythonSheep
+Author: LittleSheep_
+Author-email: cadenjiang@outlook.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: App Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Chinese
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft
+Classifier: Operating System :: Unix
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Programming Language :: Python :: 3.8
