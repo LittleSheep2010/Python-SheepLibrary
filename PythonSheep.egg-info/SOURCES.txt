@@ -6,6 +6,8 @@ PythonSheep.egg-info/SOURCES.txt
 PythonSheep.egg-info/dependency_links.txt
 PythonSheep.egg-info/top_level.txt
 PythonSheep.egg-info/zip-safe
+PythonSheep/PrintControlSheep/PrintFormat.py
+PythonSheep/PrintControlSheep/__init__.py
 PythonSheep/SheepJson/JsonLoader.py
 PythonSheep/SheepJson/JsonWareHouse.py
 PythonSheep/SheepJson/__init__.py
