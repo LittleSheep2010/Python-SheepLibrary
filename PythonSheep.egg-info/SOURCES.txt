@@ -1,5 +1,6 @@
 README.md
 setup.py
+PythonSheep/ManagerSheep.py
 PythonSheep/__init__.py
 PythonSheep.egg-info/PKG-INFO
 PythonSheep.egg-info/SOURCES.txt
